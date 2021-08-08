@@ -1,0 +1,22 @@
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.exe.config
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.exe
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.pdb
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.Properties.Resources.resources
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.exe.licenses
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.exe
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.pdb
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.MainForm.resources
+C:\Users\admin\Documents\Samples\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.GenerateChart.resources
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.exe.config
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.exe
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.pdb
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.exe
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\bin\Debug\Winforms Charting.pdb
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.MainForm.resources
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.GenerateChart.resources
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms_Charting.Properties.Resources.resources
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Samples\Winforms Charting Sample\Winforms Charting\Winforms Charting\obj\Debug\Winforms Charting.exe.licenses
